@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+
+# Working files
+work/
+.venv/
+*.pt
